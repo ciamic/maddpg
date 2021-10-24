@@ -52,26 +52,26 @@ To set up your python environment to run the code in this repository, follow the
 
 	- __Linux__ or __Mac__: 
 	```bash
-	conda create --name ddpg python=3.6
-	source activate ddpg
+	conda create --name maddpg python=3.6
+	source activate maddpg
 	```
 	- __Windows__: 
 	```bash
-	conda create --name ddpg python=3.6 
-	activate ddpg
+	conda create --name maddpg python=3.6 
+	activate maddpg
 	```
 
 3. Clone the repository, and then, install the required packages (see requirements).
 ```bash
-git clone https://github.com/ciamic/ddpg.git
+git clone https://github.com/ciamic/maddpg.git
 ```
 
-4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `ddpg` environment.  
+4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `maddpg` environment.  
 ```bash
-python -m ipykernel install --user --name ddpg --display-name "ddpg"
+python -m ipykernel install --user --name maddpg --display-name "maddpg"
 ```
 
-5. Before running code in a notebook, change the kernel to match the `ddpg` environment by using the drop-down contextual `Kernel` menu. 
+5. Before running code in a notebook, change the kernel to match the `maddpg` environment by using the drop-down contextual `Kernel` menu. 
 
 ### Requirements
 
