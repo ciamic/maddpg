@@ -8,7 +8,7 @@
  
 ## Introduction
 This repo contains: 
-- an implementation of a MAPDDPG algorithm 
+- an implementation of a MADDPG algorithm 
 - a solution to the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893 "Udacity Deep Reinforcement Learning Nanodegree") Project 3, Collaboration and Competition
 
 ### Project details
